@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libarx-3.7.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/libarx-3.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resources/mysql-connector-java-8.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
